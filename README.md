@@ -60,7 +60,6 @@ coinlib : [`https://coinlib.io/coin/GNRO/Genero`](https://coinlib.io/coin/GNRO/G
 ## History  
   
 2018, 20th May, Genero team (unknown) opened the blockchain.  
-2018, Oct, After a short time, the listing was abolished on graviex exchanges. and then it has been managed by the community.  
 2019, Jun, Genero is officially redeveloped and operated by Robin Project.  
 2019, Jun, Genero Core version 1.1.0.0 is released   
 2019, Aug, Genero Core version 1.2.0.0 is released   
