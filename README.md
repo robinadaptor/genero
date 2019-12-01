@@ -30,6 +30,7 @@ paper wallet : [`https://robinadaptor.github.io/genero/wallet`](https://robinada
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
 exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.github.io/chamber)  
 coinlib : [`https://coinlib.io/coin/GNRO/Genero`](https://coinlib.io/coin/GNRO/Genero)   
+somacher-invest : [`https://somacher-invest.ch/genero-gnro/`](https://somacher-invest.ch/genero-gnro/)  
   
 [`wallet`](https://github.com/robinadaptor/genero/releases) [`source`](https://github.com/robinadaptor/genero) [`vote`](https://robinadaptor.github.io/genero/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)   
   
