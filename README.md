@@ -32,7 +32,7 @@ exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.githu
 coinlib : [`https://coinlib.io/coin/GNRO/Genero`](https://coinlib.io/coin/GNRO/Genero)   
 somacher-invest : [`https://somacher-invest.ch/genero-gnro/`](https://somacher-invest.ch/genero-gnro/)  
   
-[`wallet`](https://github.com/robinadaptor/genero/releases) [`source`](https://github.com/robinadaptor/genero) [`vote`](https://robinadaptor.github.io/genero/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)   
+[`wallet`](https://github.com/robinadaptor/genero/releases) [`source`](https://github.com/robinadaptor/genero) [`vote`](https://robinadaptor.github.io/genero/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)    
   
 ***
 ## Reward Policy  
