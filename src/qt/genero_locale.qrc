@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/genero_bg.qm</file>
+        <file alias="de">locale/genero_de.qm</file>
+        <file alias="en">locale/genero_en.qm</file>
+        <file alias="es">locale/genero_es.qm</file>
+        <file alias="fi">locale/genero_fi.qm</file>
+        <file alias="fr">locale/genero_fr.qm</file>
+        <file alias="it">locale/genero_it.qm</file>
+        <file alias="ja">locale/genero_ja.qm</file>
+        <file alias="pl">locale/genero_pl.qm</file>
+        <file alias="pt">locale/genero_pt.qm</file>
+        <file alias="ru">locale/genero_ru.qm</file>
+        <file alias="sk">locale/genero_sk.qm</file>
+        <file alias="sv">locale/genero_sv.qm</file>
+        <file alias="vi">locale/genero_vi.qm</file>
+        <file alias="zh_CN">locale/genero_zh_CN.qm</file>
+        <file alias="zh_TW">locale/genero_zh_TW.qm</file>
+    </qresource>
+</RCC>

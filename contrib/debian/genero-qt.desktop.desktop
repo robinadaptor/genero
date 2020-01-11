@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GNRO
+Comment=GNRO P2P Cryptocurrency
+Exec=genero-qt %u
+Terminal=false
+Type=Application
+Icon=genero128
+MimeType=x-scheme-handler/genero;
+Categories=Office;Finance;
+Name[en_US]=genero-qt.desktop
